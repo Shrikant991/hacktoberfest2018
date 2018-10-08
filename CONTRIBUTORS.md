@@ -100,6 +100,10 @@ Place: Mumbai<br/>
 About: I am a computer engineer and loves coding.<br/>
 Programming Language:C,C++,Python<br/>
 
+Name: [Khushboo Verma](https://github.com/vermakhushboo)<br/>
+Place: New Delhi, India<br/>
+About: I love to code!<br/>
+Programming Language: C, C++, Java, Python, HTML5, CSS3, JS <br/>
 
 Name: [Harsh Bhut](https://github.com/harshbhut42)<br/>
 Place: Gandhinagar<br/>
